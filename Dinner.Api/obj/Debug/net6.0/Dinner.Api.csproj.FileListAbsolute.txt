@@ -1,0 +1,78 @@
+F:\clean code\Dinner.Api\bin\Debug\net6.0\appsettings.Development.json
+F:\clean code\Dinner.Api\bin\Debug\net6.0\appsettings.json
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Api.exe
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Api.deps.json
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Api.runtimeconfig.json
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Api.dll
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Api.pdb
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.csproj.AssemblyReference.cache
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.AssemblyInfoInputs.cache
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.AssemblyInfo.cs
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.csproj.CoreCompileInputs.cache
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\clean code\Dinner.Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\clean code\Dinner.Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\clean code\Dinner.Api\obj\Debug\net6.0\scopedcss\bundle\Dinner.Api.styles.css
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.csproj.CopyComplete
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.dll
+F:\clean code\Dinner.Api\obj\Debug\net6.0\refint\Dinner.Api.dll
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.pdb
+F:\clean code\Dinner.Api\obj\Debug\net6.0\Dinner.Api.genruntimeconfig.cache
+F:\clean code\Dinner.Api\obj\Debug\net6.0\ref\Dinner.Api.dll
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Application.dll
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Contracts.dll
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Domain.dll
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Contracts.pdb
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Application.pdb
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Domain.pdb
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Infrastructure.dll
+F:\clean code\Dinner.Api\bin\Debug\net6.0\Dinner.Infrastructure.pdb
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.dll
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\refint\Dinner.Api.dll
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.pdb
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\appsettings.Development.json
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\appsettings.json
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Api.exe
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Api.deps.json
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Api.runtimeconfig.json
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Api.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Api.pdb
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Application.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Contracts.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Domain.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Infrastructure.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Contracts.pdb
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Application.pdb
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Infrastructure.pdb
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Dinner.Domain.pdb
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.csproj.AssemblyReference.cache
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.AssemblyInfoInputs.cache
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.AssemblyInfo.cs
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.csproj.CoreCompileInputs.cache
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\scopedcss\bundle\Dinner.Api.styles.css
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.csproj.CopyComplete
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\Dinner.Api.genruntimeconfig.cache
+F:\cleanCode\Dinner.Api\obj\Debug\net6.0\ref\Dinner.Api.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\cleanCode\Dinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

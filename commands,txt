@@ -1,0 +1,13 @@
+
+
+in powershell --> dotnet sln add (ls -r **\**.csproj)
+
+dotnet add .\Dinner.Api\ reference .\Dinner.Contracts\ .\Dinner.Application\
+
+dotnet add .\Dinner.Infrastructure\ reference .\Dinner.Contracts\ .\Dinner.Application\
+
+dotnet user-secrets init -p Dinner.Api
+
+dotnet user-secrets set -p Dinner.Api "JwtSettings:Secret" "super-secret-key-dining"
+
+dotnet user-secrets list -p Dinner.Api

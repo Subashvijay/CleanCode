@@ -1,0 +1,36 @@
+F:\clean code\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Infrastructure.deps.json
+F:\clean code\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Infrastructure.dll
+F:\clean code\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Infrastructure.pdb
+F:\clean code\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.csproj.AssemblyReference.cache
+F:\clean code\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\clean code\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.AssemblyInfoInputs.cache
+F:\clean code\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.AssemblyInfo.cs
+F:\clean code\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.csproj.CoreCompileInputs.cache
+F:\clean code\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.dll
+F:\clean code\Dinner.Infrastructure\obj\Debug\net6.0\refint\Dinner.Infrastructure.dll
+F:\clean code\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.pdb
+F:\clean code\Dinner.Infrastructure\obj\Debug\net6.0\ref\Dinner.Infrastructure.dll
+F:\clean code\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Application.dll
+F:\clean code\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Domain.dll
+F:\clean code\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Application.pdb
+F:\clean code\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Domain.pdb
+F:\clean code\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.csproj.CopyComplete
+F:\cleanCode\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.dll
+F:\cleanCode\Dinner.Infrastructure\obj\Debug\net6.0\refint\Dinner.Infrastructure.dll
+F:\cleanCode\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.pdb
+F:\cleanCode\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Infrastructure.deps.json
+F:\cleanCode\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Infrastructure.dll
+F:\cleanCode\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Infrastructure.pdb
+F:\cleanCode\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Application.dll
+F:\cleanCode\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Domain.dll
+F:\cleanCode\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Application.pdb
+F:\cleanCode\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Domain.pdb
+F:\cleanCode\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.csproj.AssemblyReference.cache
+F:\cleanCode\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\cleanCode\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.AssemblyInfoInputs.cache
+F:\cleanCode\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.AssemblyInfo.cs
+F:\cleanCode\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.csproj.CoreCompileInputs.cache
+F:\cleanCode\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.csproj.CopyComplete
+F:\cleanCode\Dinner.Infrastructure\obj\Debug\net6.0\ref\Dinner.Infrastructure.dll
+F:\cleanCode\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Contracts.dll
+F:\cleanCode\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Contracts.pdb
