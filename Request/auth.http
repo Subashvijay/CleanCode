@@ -4,9 +4,17 @@ POST {{host}}/Auth/register
 Content-Type: application/json
 
 {
-  "firstName": "string",
-  "lastName": "string",
-  "email": "string",
-  "password": "string",
-  "token":"ss"
+  "firstName": "subash",
+  "lastName": "Bose",
+  "email": "subash@123",
+  "password": "123123",
+  "token":""
+}
+###
+POST {{host}}/Auth/login
+Content-Type: application/json
+
+{
+  "email": "subash@123",
+  "password": "123123"
 }

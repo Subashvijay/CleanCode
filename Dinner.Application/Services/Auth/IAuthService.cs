@@ -4,8 +4,8 @@ namespace Dinner.Application.Services.Auth
 {
     public interface IAuthService
     {
-        LoginRequest Login(LoginRequest request);
+        AuthResult Login(LoginRequest request);
 
-        RegisterRequest Register(RegisterRequest request);
+        AuthResult Register(RegisterRequest request);
     }
 }

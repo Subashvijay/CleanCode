@@ -4,6 +4,6 @@ namespace Dinner.Infrastructure.Services
 {
     public class DateTimeProvider : IDateTimeProvider
     {
-        public DateTime utcNow => DateTime.UtcNow;
+        public DateTime UtcNow => DateTime.UtcNow;
     }
 }

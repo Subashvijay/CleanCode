@@ -1,9 +1,11 @@
-using Dinner.Application.Common.Authentication;
+using Dinner.Application.Common.Interfaces.Authentication;
 using Dinner.Application.Common.Services;
 using Dinner.Infrastructure.Auth;
 using Dinner.Infrastructure.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
+using Dinner.Application.Common.Interfaces.Persistance;
+using Dinner.Infrastructure.Persistance;
 
 namespace Dinner.Infrastructure
 {
@@ -16,6 +18,7 @@ namespace Dinner.Infrastructure
             services.Configure<JwtSetting>(configuration.GetSection("JwtSettings"));
             services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
             services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
+            services.AddSingleton<IUserRepository, UserRepository>();
             return services;
         }
     }

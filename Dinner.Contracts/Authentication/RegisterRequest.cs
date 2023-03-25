@@ -5,7 +5,5 @@ namespace Dinner.Contracts.Authentication
         string LastName,
         string Email,
         string Password,
-        string Token)
-    {
-    }
+        string Token);
 }

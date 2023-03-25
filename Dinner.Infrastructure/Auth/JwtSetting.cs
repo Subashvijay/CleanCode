@@ -9,6 +9,5 @@ namespace Dinner.Infrastructure.Auth
         public int ExpireIn { get; init; }
 
         public string Audience { get; init; } = null!;
-
     }
 }

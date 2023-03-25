@@ -1,8 +1,9 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using Dinner.Application.Common.Authentication;
+using Dinner.Application.Common.Interfaces.Authentication;
 using Dinner.Application.Common.Services;
+using Dinner.Domain.Entities;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
@@ -19,7 +20,7 @@ namespace Dinner.Infrastructure.Auth
             _JwtSetting = jwtSettingOpt.Value;
         }
 
-        public string GenerateToken(Guid userId, string FirstName, string LastName)
+        public string GenerateToken(User user)
         {
             var signingCred = new SigningCredentials(
                 new SymmetricSecurityKey(
@@ -28,9 +29,9 @@ namespace Dinner.Infrastructure.Auth
                 SecurityAlgorithms.HmacSha256
             );
             var claims = new[]{
-            new Claim(JwtRegisteredClaimNames.Sub, FirstName + ' '+ LastName),
+            new Claim(JwtRegisteredClaimNames.Sub, user.FirstName + ' '+user.LastName),
             new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
-            new Claim(JwtRegisteredClaimNames.UniqueName, userId.ToString()),
+            new Claim(JwtRegisteredClaimNames.UniqueName, user.Id.ToString()),
             new Claim("opt ss","opt val")
            };
 
@@ -38,11 +39,10 @@ namespace Dinner.Infrastructure.Auth
                 issuer: _JwtSetting.Issuer,
                 audience: _JwtSetting.Audience,
                 claims: claims,
-                expires: _DateTimeProvider.utcNow.AddDays(_JwtSetting.ExpireIn),
+                expires: _DateTimeProvider.UtcNow.AddDays(_JwtSetting.ExpireIn),
                 signingCredentials: signingCred);
 
             return new JwtSecurityTokenHandler().WriteToken(token);
-
         }
     }
 }
