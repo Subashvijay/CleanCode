@@ -1,14 +1,16 @@
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
-using System.Text;
-using Dinner.Application.Common.Interfaces.Authentication;
-using Dinner.Application.Common.Services;
-using Dinner.Domain.Entities;
-using Microsoft.Extensions.Options;
-using Microsoft.IdentityModel.Tokens;
-
 namespace Dinner.Infrastructure.Auth
 {
+    using System.IdentityModel.Tokens.Jwt;
+    using System.Security.Claims;
+    using System.Text;
+
+    using Dinner.Application.Common.Interfaces.Authentication;
+    using Dinner.Application.Common.Services;
+    using Dinner.Domain.Entities;
+
+    using Microsoft.Extensions.Options;
+    using Microsoft.IdentityModel.Tokens;
+
     public class JwtTokenGenerator : IJwtTokenGenerator
     {
         private readonly IDateTimeProvider _DateTimeProvider;

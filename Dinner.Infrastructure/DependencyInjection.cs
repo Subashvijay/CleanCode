@@ -1,14 +1,14 @@
-using Dinner.Application.Common.Interfaces.Authentication;
-using Dinner.Application.Common.Services;
-using Dinner.Infrastructure.Auth;
-using Dinner.Infrastructure.Services;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Configuration;
-using Dinner.Application.Common.Interfaces.Persistance;
-using Dinner.Infrastructure.Persistance;
-
 namespace Dinner.Infrastructure
 {
+    using Dinner.Application.Common.Interfaces.Authentication;
+    using Dinner.Application.Common.Services;
+    using Dinner.Infrastructure.Auth;
+    using Dinner.Infrastructure.Services;
+    using Microsoft.Extensions.DependencyInjection;
+    using Microsoft.Extensions.Configuration;
+    using Dinner.Application.Common.Interfaces.Persistance;
+    using Dinner.Infrastructure.Persistance;
+
     public static class DependencyInjection
     {
         public static IServiceCollection AddInfraService(
