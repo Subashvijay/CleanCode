@@ -27,7 +27,7 @@ var app = builder.Build();
 
     /***** error handling ways*********/
     // app.UseMiddleware<ErrorHandlingMiddleware>(); --> 1)using middleware
-    // app.UseExceptionHandler("/error");// --> 3) using Exception Route
+    app.UseExceptionHandler("/error");// --> 3) using Exception Route
     // app.Map("/error", (HttpContext context) =>
     // {
     //     var exception = context.Features.Get<IExceptionHandlerFeature>()?.Error;
